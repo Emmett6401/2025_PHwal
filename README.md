@@ -61,10 +61,10 @@
 12. 우제준
 13. 윤덕규
 14. 이건우
-15. 이동엽
+15. 이동엽  https://github.com/dongyeopleehere  
 16. 이성민
 17. 이성윤
-18. 이승학
+18. 이승학 https://github.com/beriussh  
 19. 이창훈
 20. 이채원
 21. 임도영
