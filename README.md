@@ -28,12 +28,15 @@
 
 ### 링크
 [텍스트](URL) 형식으로 링크를 추가할 수 있습니다.
-예시: [Google](https://www.google.com)
+'''
+[Google](https://www.google.com)
+'''
 
 ### 이미지
 이미지 삽입은 링크와 유사하게 ![이미지 설명](이미지 URL) 형식을 사용합니다.
-예시: ![Logo](https://example.com/logo.png)
-
+'''
+![Logo](https://example.com/logo.png)
+'''
 ### 코드 블록
 
 인라인 코드: 백틱(`)으로 감쌉니다.
