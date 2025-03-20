@@ -51,30 +51,46 @@
 2. LIU ZHENMING
 3. 강승현
 4. 금종혁
-5. 김민호
-6. 김수민
+5. 김민호 https://github.com/kimminho-618/minho_03
+6. 김수민 https://github.com/gaksultang
+
+
 7. 김우진
-8. 박소희
-9. 박준성
+8. 박소희 https://github.com/soheev030
+9. 박준성 https://github.com/wnstjdqkr
+
+
 10. 박지찬
-11. 배진우
-12. 우제준
-13. 윤덕규
+11. 배진우 https://github.com/jinwoo6607
+
+
+12. 우제준 https://github.com/dnwpwns
+
+13. 윤덕규 https://duck718.github.io/duck718/
+
+
 14. 이건우
 15. 이동엽  https://github.com/dongyeopleehere  
 16. 이성민
-17. 이성윤
+17. 이성윤 https://github.com/leolee-08
 18. 이승학 https://github.com/beriussh  
 19. 이창훈
-20. 이채원
+20. 이채원 https://github.com/codnjs1129
+
+
 21. 임도영
-22. 장동현
-23. 장성훈
+22. 장동현 https://github.com/donghyeon754
+
+
+23. 장성훈 https://github.com/JangSeongHun99
+
 24. 장승윤
 25. 전준구
-26. 전찬혁
-27. 정승빈
+26. 전찬혁 https://github.com/ChanHyeok-Jeon
+
+
+27. 정승빈 https://jung-sb.github.io/Jung-sb/
 28. 정원영
-29. 정일준
-30. 최수호
+29. 정일준 https://github.com/lljun27/lljun27
+30. 최수호 https://github.com/choisuho12015
 31. 최용제
